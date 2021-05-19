@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kimdw92
 - 👀 I’m interested in ML, Deep Learning and DATA SCIENCE.
-- 🌱 I’m currently learning ML on coursera
+- 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
